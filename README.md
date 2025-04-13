@@ -1,7 +1,5 @@
-# Thread_Pool
- 🧵 A lightweight, singleton-based C++ thread pool with task queuing and future-based result handling. Built for extensibility and performance. Ideal for multithreaded system development and game engine internals.
-
 # abstd::thread_pool
+🧵 A lightweight, singleton-based C++ thread pool with task queuing and future-based result handling. Built for extensibility and performance. Ideal for multithreaded system development and game engine internals.
 
 **abstd::thread_pool** is a minimal yet powerful C++ thread pool built to scale multithreaded applications efficiently. Designed with simplicity and future extensibility in mind, it uses a singleton pattern and leverages C++ standard threading tools under the hood.
 
